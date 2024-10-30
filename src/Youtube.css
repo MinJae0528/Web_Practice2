@@ -118,3 +118,49 @@
     width: 75%; 
     height: auto; 
 }
+
+.Sidebar {
+    width: 13%; 
+    padding: 0;
+    background-color: #fafafa;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.Sidebar button{
+    display: flex;
+    align-items: center;
+    justify-content: space-between; 
+    padding: 10%;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.Sidebar img {
+    flex-basis: 15%; 
+    max-width: 15%;
+    height: auto;
+    display: block;
+}
+
+.Sidebar span {
+    flex-basis: 85%; 
+    padding-left: 5%; 
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+ .MyPageMenu
+ {
+    display: flex;
+    flex-direction: row; 
+    align-items: center; 
+    margin-left: 3%;
+ }
+
+ .MyPageMenu img{
+    width: 5%;
+    height: 5%;
+ }

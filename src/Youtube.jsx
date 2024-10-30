@@ -36,11 +36,49 @@ const Youtube = () => {
             </header>
             <aside className="Sidebar">
                 <div className="VideoMenu">
-
+                    <button className="HomeButton">
+                        <img src="YoutubeHome-icon.jpg" />
+                        <span>홈</span>
+                    </button>
+                    <button className="ShortsButton">
+                        <img src="YoutubeShorts-icon.png" />
+                        <span>Shorts</span>
+                    </button>
+                    <button className="SubscribeButton">
+                        <img src="YoutubeSubscribe-icon.png" />
+                        <span>구독</span>
+                    </button>
                 </div>
                 <hr></hr>
                 <div className="MyPage">
-
+                    <button className="MyPageButton">
+                        <span>내 페이지</span>
+                        <img src="YoutubeRightArrow-icon.png"/>
+                    </button>
+                    <button className="ViewingHistoryButton">
+                        <img src="YoutubeViewingHistory-icon.jpg" />
+                        <span>시청 기록</span>
+                    </button>
+                    <button className="PlaylistButton">
+                        <img src="YoutubePlaylist-icon.png" />
+                        <span>재생목록</span>
+                    </button>
+                    <button className="MyVideoButton">
+                        <img src="YoutubeMyVideo-icon.png" />
+                        <span>내 동영상</span>
+                    </button>
+                    <button className="MyMovieButton">
+                        <img src="YoutubeMyMovie-icon.png" />
+                        <span>내 영화</span>
+                    </button>
+                    <button className="WatchLaterButton">
+                        <img src="YoutubeWatchLater-icon.png" />
+                        <span>나중에 볼 동영상</span>
+                    </button>
+                    <button className="GreatButton">
+                        <img src="YoutubeGreat-icon.png" />
+                        <span>좋아요 표시한 동영상</span>
+                    </button>
                 </div>
                 <hr></hr>
                 <div className="Subscribe">
