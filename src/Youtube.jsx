@@ -38,23 +38,29 @@ const Youtube = () => {
                 <div className="VideoMenu">
 
                 </div>
+                <hr></hr>
                 <div className="MyPage">
 
                 </div>
+                <hr></hr>
                 <div className="Subscribe">
 
                 </div>
+                <hr></hr>
                 <div className="Quest">
 
                 </div>
+                <hr></hr>
                 <div className="MoreSee">
 
                 </div>
+                <hr></hr>
                 <div className="Convenience">
 
                 </div>
+                <hr></hr>
                 <div className="information">
-                    
+
                 </div>
             </aside>
         </div>
