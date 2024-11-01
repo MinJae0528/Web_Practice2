@@ -122,19 +122,23 @@
 .Sidebar {
     width: 13%; 
     padding: 0;
-    background-color: #fafafa;
+    background-color: white;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
 }
 
+.Sidebar h3{
+    margin-left: 10%;
+}
 .Sidebar button{
     display: flex;
     align-items: center;
-    justify-content: space-between; 
+    justify-content: flex-start; 
     padding: 10%;
     width: 100%;
     box-sizing: border-box;
+    margin-left: 5%;
 }
 
 .Sidebar img {
@@ -163,4 +167,14 @@
  .MyPageMenu img{
     width: 5%;
     height: 5%;
+ }
+
+ .MyPage,
+ .Subscribe,
+ .Quest,
+ .MoreSee,
+ .Convenience,
+ .information{
+    border-top: 1px solid gray;
+    padding: 3%;
  }

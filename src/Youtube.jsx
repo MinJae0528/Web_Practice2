@@ -49,7 +49,6 @@ const Youtube = () => {
                         <span>구독</span>
                     </button>
                 </div>
-                <hr></hr>
                 <div className="MyPage">
                     <button className="MyPageButton">
                         <span>내 페이지</span>
@@ -80,23 +79,117 @@ const Youtube = () => {
                         <span>좋아요 표시한 동영상</span>
                     </button>
                 </div>
-                <hr></hr>
                 <div className="Subscribe">
-
+                    <h3>구독</h3>
+                    <button className="UserButton">
+                        <img src="User-icon.png" />
+                        <span>홍길동</span>
+                    </button>
+                    <button className="UserButton">
+                        <img src="User-icon.png" />
+                        <span>홍길동</span>
+                    </button>
+                    <button className="UserButton">
+                        <img src="User-icon.png" />
+                        <span>홍길동</span>
+                    </button>
+                    <button className="UserButton">
+                        <img src="User-icon.png" />
+                        <span>홍길동</span>
+                    </button>
+                    <button className="UserButton">
+                        <img src="User-icon.png" />
+                        <span>홍길동</span>
+                    </button>
+                    <button className="UserButton">
+                        <img src="User-icon.png" />
+                        <span>홍길동</span>
+                    </button>
+                    <button className="UserButton">
+                        <img src="User-icon.png" />
+                        <span>홍길동</span>
+                    </button>
+                    <button className="UserButton">
+                        <img src="YoutubeDropdown-icon.png" />
+                        <span>더보기</span>
+                    </button>
                 </div>
-                <hr></hr>
                 <div className="Quest">
-
+                    <h3>탐색</h3>
+                    <button className="TrendingButton">
+                        <img src="YoutubeTrending-icon.png" />
+                        <span>인기 급상승</span>
+                    </button>
+                    <button className="ShoppingButton">
+                        <img src="YoutubeShoppingBag-icon.png" />
+                        <span>쇼핑</span>
+                    </button>
+                    <button className="SongButton">
+                        <img src="Song-icon.png" />
+                        <span>음악</span>
+                    </button>
+                    <button className="MovieButton">
+                        <img src="YoutubeMyMovie-icon.png" />
+                        <span>영화</span>
+                    </button>
+                    <button className="StreamingButton">
+                        <img src="YoutubeStreaming-icon.png" />
+                        <span>실시간</span>
+                    </button>
+                    <button className="GameButton">
+                        <img src="YoutubeGame-icon.png" />
+                        <span>게임</span>
+                    </button>
+                    <button className="SportsButton">
+                        <img src="YoutubeSports-icon.png" />
+                        <span>스포츠</span>
+                    </button>
+                    <button className="StudyProgramButton">
+                        <img src="YoutubeStudyProgram-icon.png" />
+                        <span>학습 프로그램</span>
+                    </button>
+                    <button className="PodcastButton">
+                        <img src="YoutubePodcast-icon.png" />
+                        <span>팟캐스트</span>
+                    </button>
                 </div>
-                <hr></hr>
                 <div className="MoreSee">
-
+                    <h3>Youtube 더보기</h3>
+                    <button className="PodcastButton">
+                        <img src="Youtube-logo.jpg" />
+                        <span>YouTube Premium</span>
+                    </button>
+                    <button className="PodcastButton">
+                        <img src="YoutubeStudio-icon.jpg" />
+                        <span>YouTube 스튜디오</span>
+                    </button>
+                    <button className="PodcastButton">
+                        <img src="YoutubeMusic-icon.png" />
+                        <span>YouTube Music</span>
+                    </button>
+                    <button className="PodcastButton">
+                        <img src="YoutubeKids-icon.png" />
+                        <span>YouTube Kids</span>
+                    </button>
                 </div>
-                <hr></hr>
                 <div className="Convenience">
-
+                    <button className="PodcastButton">
+                        <img src="YoutubePodcast-icon.png" />
+                        <span>설정</span>
+                    </button>
+                    <button className="PodcastButton">
+                        <img src="YoutubePodcast-icon.png" />
+                        <span>신고 기록</span>
+                    </button>
+                    <button className="PodcastButton">
+                        <img src="YoutubePodcast-icon.png" />
+                        <span>고객센터</span>
+                    </button>
+                    <button className="PodcastButton">
+                        <img src="YoutubePodcast-icon.png" />
+                        <span>의견 보내기</span>
+                    </button>
                 </div>
-                <hr></hr>
                 <div className="information">
 
                 </div>
