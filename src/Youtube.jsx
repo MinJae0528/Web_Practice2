@@ -205,6 +205,11 @@ const Youtube = () => {
                     </p>
                 </div>
             </aside>
+            <main className="MainView">
+                <div className="HeaderButton">
+                    <button className="AllButton">전체</button>
+                </div>
+            </main>
         </div>
     )
 }
