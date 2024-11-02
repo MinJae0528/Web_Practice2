@@ -40,8 +40,7 @@
     align-items: center; 
     width: 100%; 
     height: 100%; 
-    padding: 10px;
-    margin-top: 20px; 
+    padding: 2%;
     box-sizing: border-box;
 }
 
@@ -50,7 +49,6 @@
     align-items: center; 
     width: 100%; 
     height: 100%; 
-    padding: 10px;
     box-sizing: border-box;
 }
 
@@ -68,12 +66,13 @@
 }
 
 .txtSearch{
-    width: 640px;
+    width: 50rem;
     height: 2rem;
     border-radius: 50px;
 }
 
 .MicButton{
+    margin-left: 5%;
     width: 5%; 
     height: 5%; 
     border: none; 
@@ -91,8 +90,7 @@
     align-items: center; 
     width: 100%; 
     height: 100%; 
-    padding: 10px;
-    margin-top: 20px; 
+    padding: 2%;
     box-sizing: border-box;
     justify-content: flex-end;
 }
@@ -117,6 +115,10 @@
 .AlarmButton img{
     width: 75%; 
     height: auto; 
+}
+
+.MainContainer{
+    display: flex;
 }
 
 .Sidebar {
@@ -179,3 +181,92 @@
     padding: 3%;
  }
  
+.MainView{
+    margin-left: 4%;
+    width: 80%;
+}
+
+.HeaderButton button{
+    margin-left: 2%;
+}
+
+.VideoView {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2%; 
+    justify-content: space-between;
+}
+
+.ContentController {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2%; 
+    justify-content: space-between;
+    width: 100%;
+}
+
+.Content {
+    flex: 1 1 calc(33.33% - 2%); 
+    max-width: calc(33.33% - 2%);
+    box-sizing: border-box;
+    margin-top: 3%;
+}
+
+.Content img:first-child {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.User {
+    display: flex;
+    align-items: center;
+    max-width: 12%;
+    gap: 2%;
+}
+
+.User img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.Title h3{
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+
+.UserAndTitle {
+    gap:5%;
+    display: flex;
+    margin-top: 1%;
+}
+
+.AuthorName p{
+    opacity: 0.5;
+    font-size: 1rem;
+    margin: 0;
+    max-width: 100%;
+}
+
+.VideoInfo{
+    display: flex;
+    gap: 5%;
+    width: 80%;
+}
+
+.VideoInfo p{
+    max-width: 100%;
+}
+
+.View p{
+    max-width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.UploadingDay p{
+    max-width: 100%;
+    margin-top: 0;
+    margin-bottom: 0;
+}
