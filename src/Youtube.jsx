@@ -418,8 +418,272 @@ const Youtube = () => {
                                     </div>
                                 </div>
                             </div>
+                            <div className="Content">
+                                <img src="/Dog.jpg" />
+                                <div className="UserAndTitle">
+                                    <div className="User">
+                                        <img src="/User-icon.png" />
+                                    </div>
+                                    <div className="Title">
+                                        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+                                    </div>
+                                </div>
+                                <div className="AuthorName">
+                                    <p>Lorem Ipsum dolor</p>
+                                </div>
+                                <div className="VideoInfo">
+                                    <div className="View">
+                                        <p>조회수</p>
+                                    </div>
+                                    <div className="UploadingDay">
+                                        <p>몇일 전</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="Content">
+                                <img src="/Dog.jpg" />
+                                <div className="UserAndTitle">
+                                    <div className="User">
+                                        <img src="/User-icon.png" />
+                                    </div>
+                                    <div className="Title">
+                                        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+                                    </div>
+                                </div>
+                                <div className="AuthorName">
+                                    <p>Lorem Ipsum dolor</p>
+                                </div>
+                                <div className="VideoInfo">
+                                    <div className="View">
+                                        <p>조회수</p>
+                                    </div>
+                                    <div className="UploadingDay">
+                                        <p>몇일 전</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="Content">
+                                <img src="/Dog.jpg" />
+                                <div className="UserAndTitle">
+                                    <div className="User">
+                                        <img src="/User-icon.png" />
+                                    </div>
+                                    <div className="Title">
+                                        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+                                    </div>
+                                </div>
+                                <div className="AuthorName">
+                                    <p>Lorem Ipsum dolor</p>
+                                </div>
+                                <div className="VideoInfo">
+                                    <div className="View">
+                                        <p>조회수</p>
+                                    </div>
+                                    <div className="UploadingDay">
+                                        <p>몇일 전</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="Content">
+                                <img src="/Dog.jpg" />
+                                <div className="UserAndTitle">
+                                    <div className="User">
+                                        <img src="/User-icon.png" />
+                                    </div>
+                                    <div className="Title">
+                                        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+                                    </div>
+                                </div>
+                                <div className="AuthorName">
+                                    <p>Lorem Ipsum dolor</p>
+                                </div>
+                                <div className="VideoInfo">
+                                    <div className="View">
+                                        <p>조회수</p>
+                                    </div>
+                                    <div className="UploadingDay">
+                                        <p>몇일 전</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="Content">
+                                <img src="/Dog.jpg" />
+                                <div className="UserAndTitle">
+                                    <div className="User">
+                                        <img src="/User-icon.png" />
+                                    </div>
+                                    <div className="Title">
+                                        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+                                    </div>
+                                </div>
+                                <div className="AuthorName">
+                                    <p>Lorem Ipsum dolor</p>
+                                </div>
+                                <div className="VideoInfo">
+                                    <div className="View">
+                                        <p>조회수</p>
+                                    </div>
+                                    <div className="UploadingDay">
+                                        <p>몇일 전</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="Content">
+                                <img src="/Dog.jpg" />
+                                <div className="UserAndTitle">
+                                    <div className="User">
+                                        <img src="/User-icon.png" />
+                                    </div>
+                                    <div className="Title">
+                                        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+                                    </div>
+                                </div>
+                                <div className="AuthorName">
+                                    <p>Lorem Ipsum dolor</p>
+                                </div>
+                                <div className="VideoInfo">
+                                    <div className="View">
+                                        <p>조회수</p>
+                                    </div>
+                                    <div className="UploadingDay">
+                                        <p>몇일 전</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="Content">
+                                <img src="/Dog.jpg" />
+                                <div className="UserAndTitle">
+                                    <div className="User">
+                                        <img src="/User-icon.png" />
+                                    </div>
+                                    <div className="Title">
+                                        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+                                    </div>
+                                </div>
+                                <div className="AuthorName">
+                                    <p>Lorem Ipsum dolor</p>
+                                </div>
+                                <div className="VideoInfo">
+                                    <div className="View">
+                                        <p>조회수</p>
+                                    </div>
+                                    <div className="UploadingDay">
+                                        <p>몇일 전</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="Content">
+                                <img src="/Dog.jpg" />
+                                <div className="UserAndTitle">
+                                    <div className="User">
+                                        <img src="/User-icon.png" />
+                                    </div>
+                                    <div className="Title">
+                                        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+                                    </div>
+                                </div>
+                                <div className="AuthorName">
+                                    <p>Lorem Ipsum dolor</p>
+                                </div>
+                                <div className="VideoInfo">
+                                    <div className="View">
+                                        <p>조회수</p>
+                                    </div>
+                                    <div className="UploadingDay">
+                                        <p>몇일 전</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="Content">
+                                <img src="/Dog.jpg" />
+                                <div className="UserAndTitle">
+                                    <div className="User">
+                                        <img src="/User-icon.png" />
+                                    </div>
+                                    <div className="Title">
+                                        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+                                    </div>
+                                </div>
+                                <div className="AuthorName">
+                                    <p>Lorem Ipsum dolor</p>
+                                </div>
+                                <div className="VideoInfo">
+                                    <div className="View">
+                                        <p>조회수</p>
+                                    </div>
+                                    <div className="UploadingDay">
+                                        <p>몇일 전</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="Content">
+                                <img src="/Dog.jpg" />
+                                <div className="UserAndTitle">
+                                    <div className="User">
+                                        <img src="/User-icon.png" />
+                                    </div>
+                                    <div className="Title">
+                                        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+                                    </div>
+                                </div>
+                                <div className="AuthorName">
+                                    <p>Lorem Ipsum dolor</p>
+                                </div>
+                                <div className="VideoInfo">
+                                    <div className="View">
+                                        <p>조회수</p>
+                                    </div>
+                                    <div className="UploadingDay">
+                                        <p>몇일 전</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="Content">
+                                <img src="/Dog.jpg" />
+                                <div className="UserAndTitle">
+                                    <div className="User">
+                                        <img src="/User-icon.png" />
+                                    </div>
+                                    <div className="Title">
+                                        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+                                    </div>
+                                </div>
+                                <div className="AuthorName">
+                                    <p>Lorem Ipsum dolor</p>
+                                </div>
+                                <div className="VideoInfo">
+                                    <div className="View">
+                                        <p>조회수</p>
+                                    </div>
+                                    <div className="UploadingDay">
+                                        <p>몇일 전</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div className="Content">
+                                <img src="/Dog.jpg" />
+                                <div className="UserAndTitle">
+                                    <div className="User">
+                                        <img src="/User-icon.png" />
+                                    </div>
+                                    <div className="Title">
+                                        <h3>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h3>
+                                    </div>
+                                </div>
+                                <div className="AuthorName">
+                                    <p>Lorem Ipsum dolor</p>
+                                </div>
+                                <div className="VideoInfo">
+                                    <div className="View">
+                                        <p>조회수</p>
+                                    </div>
+                                    <div className="UploadingDay">
+                                        <p>몇일 전</p>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-                    </div>         
+                    </div>
                 </main>
             </div>
         </div>
